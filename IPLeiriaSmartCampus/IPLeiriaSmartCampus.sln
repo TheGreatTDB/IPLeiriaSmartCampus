@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLeiriaSmartCampus", "IPLeiriaSmartCampus.csproj", "{91E44F1E-F242-405E-ABDC-8EC8BD129F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotSensor", "..\BotSensor\BotSensor.csproj", "{A90C7C95-4348-4D18-9C7F-94DEC1AF3DCF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{485229B2-3DB8-4E16-991F-F13EDA996AED} = {485229B2-3DB8-4E16-991F-F13EDA996AED}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorEntries", "..\SensorEntries\SensorEntries.csproj", "{485229B2-3DB8-4E16-991F-F13EDA996AED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMicroApplication", "..\DataMicroApplication\DataMicroApplication.csproj", "{E9750369-8F45-46C8-B335-0E93B069A360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorageMicroApplication", "..\DataStorageMicroApplication\DataStorageMicroApplication.csproj", "{CA13139A-99B9-41C3-8B43-1F19C889CEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E44F1E-F242-405E-ABDC-8EC8BD129F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E44F1E-F242-405E-ABDC-8EC8BD129F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E44F1E-F242-405E-ABDC-8EC8BD129F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E44F1E-F242-405E-ABDC-8EC8BD129F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90C7C95-4348-4D18-9C7F-94DEC1AF3DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90C7C95-4348-4D18-9C7F-94DEC1AF3DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90C7C95-4348-4D18-9C7F-94DEC1AF3DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90C7C95-4348-4D18-9C7F-94DEC1AF3DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485229B2-3DB8-4E16-991F-F13EDA996AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485229B2-3DB8-4E16-991F-F13EDA996AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485229B2-3DB8-4E16-991F-F13EDA996AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485229B2-3DB8-4E16-991F-F13EDA996AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9750369-8F45-46C8-B335-0E93B069A360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9750369-8F45-46C8-B335-0E93B069A360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9750369-8F45-46C8-B335-0E93B069A360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9750369-8F45-46C8-B335-0E93B069A360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA13139A-99B9-41C3-8B43-1F19C889CEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA13139A-99B9-41C3-8B43-1F19C889CEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA13139A-99B9-41C3-8B43-1F19C889CEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA13139A-99B9-41C3-8B43-1F19C889CEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE7ED29-5593-4110-9BAC-5D5557238045}
+	EndGlobalSection
+EndGlobal

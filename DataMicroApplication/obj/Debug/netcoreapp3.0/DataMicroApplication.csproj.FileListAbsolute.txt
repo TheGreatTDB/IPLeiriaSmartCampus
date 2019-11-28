@@ -1,0 +1,30 @@
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.exe
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.deps.json
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.runtimeconfig.json
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.runtimeconfig.dev.json
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\M2Mqtt.Net.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.csprojAssemblyReference.cache
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.AssemblyInfoInputs.cache
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.AssemblyInfo.cs
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.csproj.CopyComplete
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.exe
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.deps.json
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.runtimeconfig.json
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.runtimeconfig.dev.json
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\DataMicroApplication.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\M2Mqtt.Net.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.AssemblyInfo.cs
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.csproj.CopyComplete
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\obj\Debug\netcoreapp3.0\DataMicroApplication.csprojAssemblyReference.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\SensorEntries.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\SensorEntries.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\RestSharp.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\DataMicroApplication\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

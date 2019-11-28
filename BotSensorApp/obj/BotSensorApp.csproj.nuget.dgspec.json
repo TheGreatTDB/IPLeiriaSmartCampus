@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\BotSensorApp\\BotSensorApp.csproj": {}
+  },
+  "projects": {
+    "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\BotSensorApp\\BotSensorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\BotSensorApp\\BotSensorApp.csproj",
+        "projectName": "BotSensorApp",
+        "projectPath": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\BotSensorApp\\BotSensorApp.csproj",
+        "packagesPath": "C:\\Users\\pedromagalhaes\\.nuget\\packages\\",
+        "outputPath": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\BotSensorApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedromagalhaes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\SensorEntries\\SensorEntries.csproj": {
+                "projectPath": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\SensorEntries\\SensorEntries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "M2Mqtt": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\SensorEntries\\SensorEntries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\SensorEntries\\SensorEntries.csproj",
+        "projectName": "SensorEntries",
+        "projectPath": "Y:\\Onedrive\\OneDrive - IPLeiria\\Universidade\\IS\\ProjetoFinal\\IPLeiriaSmartCampus-DavidP\\SensorEntries\\SensorEntries.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.dll
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.dll
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.csprojAssemblyReference.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\SensorEntries.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.csprojAssemblyReference.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\M2Mqtt.Net.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\SensorEntries\obj\Debug\SensorEntries.csproj.CopyComplete

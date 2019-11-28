@@ -1,0 +1,51 @@
+D:\Github\IPLeiriaSmartCampus\BotSensor\bin\Debug\BotSensor.exe.config
+D:\Github\IPLeiriaSmartCampus\BotSensor\bin\Debug\BotSensor.exe
+D:\Github\IPLeiriaSmartCampus\BotSensor\bin\Debug\BotSensor.pdb
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.csprojAssemblyReference.cache
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.Form1.resources
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.Properties.Resources.resources
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.csproj.GenerateResource.cache
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.exe
+D:\Github\IPLeiriaSmartCampus\BotSensor\obj\Debug\BotSensor.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe.config
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Form1.resources
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Properties.Resources.resources
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.exe
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.dll
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.dll
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.pdb
+\\Mac\Home\Downloads\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.CopyComplete
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe.config
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.dll
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.pdb
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csprojAssemblyReference.cache
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Form1.resources
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Properties.Resources.resources
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.GenerateResource.cache
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.CopyComplete
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.exe
+Y:\Onedrive\OneDrive - IPLeiria\Universidade\IS\ProjetoFinal\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe.config
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.exe
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\BotSensor.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.dll
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\SensorEntries.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csprojAssemblyReference.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Form1.resources
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.Properties.Resources.resources
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.GenerateResource.cache
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.csproj.CopyComplete
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.exe
+C:\Users\david\Desktop\IPLeiriaSmartCampus-DavidP\BotSensor\obj\Debug\BotSensor.pdb
